@@ -1,4 +1,4 @@
-# Leetcode-Java    ![Progress](http://progressed.io/bar/4)
+# Leetcode-Java    ![Progress](http://progressed.io/bar/5)
 ###### From https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 ---
@@ -9,7 +9,7 @@ Array
 - <del>Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/<del>
 - <del>Contains Duplicate - https://leetcode.com/problems/contains-duplicate/<del>
 - <del>Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/<del>
-- Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
+- <del>Maximum Subarray - https://leetcode.com/problems/maximum-subarray/<del>
 - Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
 - Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 - Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/

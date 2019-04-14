@@ -8,7 +8,6 @@ for /r %DIR% %%i in (*.java) do (
 	set str=!str:~0,-5!
 	copy %%i !str!.java
 )
-echo %date%%time%
 git add .
 git commit -m "Auto %date%%time%"
 git push origin master

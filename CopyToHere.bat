@@ -9,6 +9,6 @@ for /r %DIR% %%i in (*.java) do (
 	copy %%i !str!.java
 )
 git add .
-git commit -m "Auto %date%%time%"
+git commit -m "Auto Update@%date%%time%"
 git push origin master
 pause

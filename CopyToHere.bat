@@ -11,4 +11,5 @@ for /r %DIR% %%i in (*.java) do (
 echo %date%%time%
 git add .
 git commit -m "Auto %date%%time%"
+git push origin master
 pause

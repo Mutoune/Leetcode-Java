@@ -6,7 +6,7 @@ From https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-L
 Array
 
 - <del>Two Sum - https://leetcode.com/problems/two-sum/<del>
-- Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+- <del>Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/<del>
 - Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
 - Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
 - Maximum Subarray - https://leetcode.com/problems/maximum-subarray/

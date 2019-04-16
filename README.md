@@ -1,4 +1,4 @@
-# Leetcode-Java    ![Progress](http://progressed.io/bar/8)
+# Leetcode-Java    ![Progress](http://progressed.io/bar/9)
 ###### From https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 ---
@@ -13,7 +13,7 @@ Array
 - <del>Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/<del>
 - <del>Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/<del>
 - <del>Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/<del>
-- 3Sum - https://leetcode.com/problems/3sum/
+- <del>3Sum - https://leetcode.com/problems/3sum/<del>
 - Container With Most Water - https://leetcode.com/problems/container-with-most-water/
 
 ---

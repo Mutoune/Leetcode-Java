@@ -24,7 +24,6 @@ public class Solution {
                 }
             }
         }
-
         return new ArrayList<List<Integer>>(rtn);
     }
 

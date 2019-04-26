@@ -1,4 +1,4 @@
-# Leetcode-Java    ![Progress](http://progressed.io/bar/14)
+# Leetcode-Java    ![Progress](http://progressed.io/bar/15)
 ###### From https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 ---
@@ -24,7 +24,7 @@ Binary
 - <del>Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/<del>
 - <del>Counting Bits - https://leetcode.com/problems/counting-bits/<del>
 - <del>Missing Number - https://leetcode.com/problems/missing-number/<del>
-- Reverse Bits - https://leetcode.com/problems/reverse-bits/
+- <del>Reverse Bits - https://leetcode.com/problems/reverse-bits/<del>
 
 ---
 

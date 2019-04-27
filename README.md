@@ -1,4 +1,4 @@
-# Leetcode-Java    ![Progress](http://progressed.io/bar/16)
+# Leetcode-Java    ![Progress](http://progressed.io/bar/17)
 ###### From https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 ---
@@ -31,7 +31,7 @@ Binary
 Dynamic Programming
 
 - <del>Climbing Stairs - https://leetcode.com/problems/climbing-stairs/<del>
-- Coin Change - https://leetcode.com/problems/coin-change/
+- <del>Coin Change - https://leetcode.com/problems/coin-change/<del>
 - Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/
 - Longest Common Subsequence - 
 - Word Break Problem - https://leetcode.com/problems/word-break/

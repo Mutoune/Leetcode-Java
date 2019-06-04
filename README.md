@@ -1,4 +1,4 @@
-# Leetcode-Java    ![Progress](http://progressed.io/bar/19)
+# Leetcode-Java    ![Progress](http://progressed.io/bar/20)
 ###### From https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 ---
@@ -34,7 +34,7 @@ Dynamic Programming
 - <del>Coin Change - https://leetcode.com/problems/coin-change/<del>
 - <del>Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/<del>
 - <del>Word Break Problem - https://leetcode.com/problems/word-break/<del>
-- Combination Sum - https://leetcode.com/problems/combination-sum-iv/
+- <del>Combination Sum - https://leetcode.com/problems/combination-sum-iv/<del>
 - House Robber - https://leetcode.com/problems/house-robber/
 - House Robber II - https://leetcode.com/problems/house-robber-ii/
 - Decode Ways - https://leetcode.com/problems/decode-ways/

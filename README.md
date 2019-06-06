@@ -1,4 +1,4 @@
-# Leetcode-Java    ![Progress](http://progressed.io/bar/25)
+# Leetcode-Java    ![Progress](http://progressed.io/bar/26)
 ###### From https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 ---
@@ -45,7 +45,7 @@ Dynamic Programming
 
 Graph
 
-- Clone Graph - https://leetcode.com/problems/clone-graph/
+- <del>Clone Graph - https://leetcode.com/problems/clone-graph/<del>
 - Course Schedule - https://leetcode.com/problems/course-schedule/
 - Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
 - Number of Islands - https://leetcode.com/problems/number-of-islands/

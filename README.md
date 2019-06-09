@@ -1,4 +1,4 @@
-# Leetcode-Java    ![Progress](http://progressed.io/bar/27?scale=69&title=completed&suffix=P)
+# Leetcode-Java    ![Progress](http://progressed.io/bar/29?scale=69&title=completed&suffix=P)
 ###### From https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 ---
@@ -83,14 +83,14 @@ Matrix
 
 String
 
-- Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
+- <del>Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/<del>
 - Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
 - Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
 - Valid Anagram - https://leetcode.com/problems/valid-anagram/
 - Group Anagrams - https://leetcode.com/problems/group-anagrams/
 - Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
 - Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
-- Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
+- <del>Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/<del>
 - Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
 
 ---

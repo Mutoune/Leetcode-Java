@@ -3,28 +3,22 @@ import java.util.Map;
 
 public class Solution {
 
-    static boolean check(String s) {
-        Map<Character, Integer> map = new HashMap<>();
-        for (int i = 0; i < s.length(); i++) {
-            if (map.containsKey(s.charAt(i))) {
-                return false;
-            } else {
-                map.put(s.charAt(i), 1);
-            }
-        }
-        return true;
-    }
     public int lengthOfLongestSubstring(String s) {
-        int len = s.length();
-        while (len > 1) {
-            for (int i = 0; i < s.length() - len + 1; i++) {
-                if (check(s.substring(i, i + len))) {
-                    return len;
-                }
+        boolean[] check = new boolean[256];
+        int lp = 0;
+        int rp = 0;
+        int max = 0;
+        while (lp < s.length() && rp < s.length()) {
+            if (check[s.charAt(rp)]) {
+                check[s.charAt(lp)] = false;
+                lp++;
+            } else {
+                check[s.charAt(rp)] = true;
+                rp++;
             }
-            len--;
+            max = Math.max(max, rp - lp);
         }
-        return len;
+        return max;
     }
     public static void main(String[] args) {
         System.out.println(new Solution().lengthOfLongestSubstring("au"));

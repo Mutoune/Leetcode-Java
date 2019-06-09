@@ -1,4 +1,4 @@
-# Leetcode-Java    ![Progress](http://progressed.io/bar/30?scale=69&title=completed&suffix=P)
+# Leetcode-Java    ![Progress](http://progressed.io/bar/31?scale=69&title=completed&suffix=P)
 ###### From https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 ---
@@ -88,7 +88,7 @@ String
 - Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
 - Valid Anagram - https://leetcode.com/problems/valid-anagram/
 - Group Anagrams - https://leetcode.com/problems/group-anagrams/
-- Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
+- <del>Valid Parentheses - https://leetcode.com/problems/valid-parentheses/<del>
 - Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
 - <del>Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/<del>
 - Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/

@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-import java.util.List;
 
 public class Solution {
 
@@ -9,12 +7,14 @@ public class Solution {
          ListNode(int x) { val = x; }
      }
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        List<ListNode> list = new ArrayList<>();
+        ListNode rtn = new ListNode(0);
         int temp = 0;
         ListNode num1 = l1;
         ListNode num2 = l2;
+        ListNode node = rtn;
         while (num1 != null || num2 != null) {
-            ListNode node = new ListNode(0);
+            node.next = new ListNode(0);
+            node = node.next;
             int int1 = 0;
             int int2 = 0;
             if (num1 != null) {
@@ -28,17 +28,13 @@ public class Solution {
             node.val = int1 + int2 + temp;
             temp = node.val / 10;
             node.val = node.val % 10;
-            list.add(node);
         }
         if (temp == 1) {
-            ListNode node = new ListNode(1);
-            list.add(node);
+            node.next = new ListNode(1);
         }
-        for (int i = 0; i < list.size() - 1; i++) {
-            list.get(i).next = list.get(i + 1);
-        }
-        return list.get(0);
+        return rtn.next;
     }
+
     public static void main(String[] args) {
         ListNode l1 = new ListNode(1);
         ListNode l2 = new ListNode(8);

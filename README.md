@@ -1,4 +1,4 @@
-# Leetcode-Java    ![Progress](http://progressed.io/bar/31?scale=69&title=completed&suffix=P)
+# Leetcode-Java    ![Progress](http://progressed.io/bar/35?scale=69&title=completed&suffix=P)
 ###### From https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 ---
@@ -97,11 +97,11 @@ String
 
 Tree
 
-- Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
-- Same Tree - https://leetcode.com/problems/same-tree/
+- <del>Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/<del>
+- <del>Same Tree - https://leetcode.com/problems/same-tree/<del>
 - Invert/Flip Binary Tree - https://leetcode.com/problems/invert-binary-tree/
-- Binary Tree Maximum Path Sum - https://leetcode.com/problems/binary-tree-maximum-path-sum/
-- Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/
+- <del>Binary Tree Maximum Path Sum - https://leetcode.com/problems/binary-tree-maximum-path-sum/<del>
+- <del>Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/<del>
 - Serialize and Deserialize Binary Tree - https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 - Subtree of Another Tree - https://leetcode.com/problems/subtree-of-another-tree/
 - Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/

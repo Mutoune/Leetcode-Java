@@ -13,42 +13,17 @@ public class Solution {
             val = x;
         }
     }
-    
+    public boolean isSym(TreeNode lch, TreeNode rch) {
+        if (lch == null || rch == null) {
+            return lch == rch;
+        }
+        if (lch.val != rch.val) {
+            return false;
+        }
+        return isSym(lch.left, rch.right) && isSym(lch.right, rch.left);
+    }
     public boolean isSymmetric(TreeNode root) {
-        List<Integer> list = new ArrayList<>();
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.add(root);
-        int empty = 0;
-        while (empty != queue.size()) {
-            TreeNode node = queue.poll();
-            if (node == null) {
-                empty--;
-                list.add(null);
-                if (empty != queue.size()) {
-                    queue.add(null);
-                    queue.add(null);
-                    empty = empty + 2;
-                }
-            } else {
-                list.add(node.val);
-                queue.add(node.left);
-                if (node.left == null) empty++;
-                queue.add(node.right);
-                if (node.right == null) empty++;
-            }
-        }
-        int len = 1;
-        int index = 0;
-        while (index < list.size()) {
-            for (int i = 0; i <= len / 2; i++) {
-                if (list.get(index + i) != list.get(index + len - i - 1)) {
-                    return false;
-                }
-            }
-            index = index + len;
-            len = len * 2;
-        }
-        return true;
+        return root == null || isSym(root.left, root.right);
     }
     public static void main(String[] args) {
         TreeNode node1 = new TreeNode(1);
@@ -61,9 +36,9 @@ public class Solution {
         node1.left = node2;
         node1.right = node3;
         node2.left = node4;
-//        node2.right = node5;
+        node2.right = node5;
         node3.left = node6;
-//        node3.right = node7;
+        node3.right = node7;
         System.out.println(new Solution().isSymmetric(node1));
     }
 

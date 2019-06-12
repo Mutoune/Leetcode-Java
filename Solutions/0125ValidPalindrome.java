@@ -5,7 +5,7 @@ public class Solution {
         int left = 0;
         int right = s.length() - 1;
         s = s.toLowerCase();
-        while (left < s.length() && right >= 0 && left < right) {
+        while (left < right) {
             if (!((s.charAt(left) >= 'a' && s.charAt(left) <= 'z')
                     || (s.charAt(left) >= '0' && s.charAt(left) <= '9'))) {
                 left++;

@@ -15,7 +15,6 @@ public class Solution {
         return hasPathSum(root.left, sum - root.val) || hasPathSum(root.right, sum - root.val);
     }
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
 
     }
 

@@ -1,4 +1,4 @@
-# Leetcode-Java    ![Progress](http://progressed.io/bar/35?scale=69&title=Completed&suffix=P)
+# Leetcode-Java    ![Progress](http://progressed.io/bar/37?scale=69&title=Completed&suffix=P)
 ###### From https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 ---
@@ -63,8 +63,8 @@ Interval
 
 Linked List
 
-- Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
-- Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
+- <del>Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/<del>
+- <del>Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/<del>
 - <del>Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/<del>
 - Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/

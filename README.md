@@ -1,4 +1,4 @@
-# Leetcode-Java    ![Progress](http://progressed.io/bar/37?scale=69&title=Completed&suffix=P)
+# Leetcode-Java    ![Progress](http://progressed.io/bar/39?scale=69&title=Completed&suffix=P)
 ###### From https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 ---
@@ -75,7 +75,7 @@ Linked List
 Matrix
 
 - Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/
-- Spiral Matrix - https://leetcode.com/problems/spiral-matrix/
+- <del>Spiral Matrix - https://leetcode.com/problems/spiral-matrix/<del>
 - Rotate Image - https://leetcode.com/problems/rotate-image/
 - Word Search - https://leetcode.com/problems/word-search/
 
@@ -89,7 +89,7 @@ String
 - Valid Anagram - https://leetcode.com/problems/valid-anagram/
 - Group Anagrams - https://leetcode.com/problems/group-anagrams/
 - <del>Valid Parentheses - https://leetcode.com/problems/valid-parentheses/<del>
-- Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
+- <del>Valid Palindrome - https://leetcode.com/problems/valid-palindrome/<del>
 - <del>Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/<del>
 - Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
 

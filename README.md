@@ -1,4 +1,4 @@
-# Leetcode-Java    ![Progress](http://progressed.io/bar/39?scale=69&title=Completed&suffix=P)
+# Leetcode-Java    ![Progress](http://progressed.io/bar/41?scale=69&title=Completed&suffix=P)
 ###### From https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 ---
@@ -116,6 +116,6 @@ Tree
 
 Heap
 
-- Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
-- Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
+- <del>Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/<del>
+- <del>Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/<del>
 - Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/

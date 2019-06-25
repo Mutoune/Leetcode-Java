@@ -68,7 +68,7 @@ Linked List
 - <del>Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/<del>
 - <del>Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/<del>
 - <del>Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/<del>
-- Reorder List - https://leetcode.com/problems/reorder-list/
+- <del>Reorder List - https://leetcode.com/problems/reorder-list/<del>
 
 ---
 

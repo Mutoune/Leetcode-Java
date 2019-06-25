@@ -1,4 +1,4 @@
-# Leetcode-Java    ![Progress](http://progressed.io/bar/47?scale=69&title=Completed&suffix=P)
+# Leetcode-Java    ![Progress](http://progressed.io/bar/48?scale=69&title=Completed&suffix=P)
 ###### From https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 ---
@@ -57,7 +57,7 @@ Interval
 
 - <del>Insert Interval - https://leetcode.com/problems/insert-interval/<del>
 - <del>Merge Intervals - https://leetcode.com/problems/merge-intervals/<del>
-- Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/
+- <del>Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/<del>
 
 ---
 

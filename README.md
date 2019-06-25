@@ -1,4 +1,4 @@
-# Leetcode-Java    ![Progress](http://progressed.io/bar/43?scale=69&title=Completed&suffix=P)
+# Leetcode-Java    ![Progress](http://progressed.io/bar/44?scale=69&title=Completed&suffix=P)
 ###### From https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 ---
@@ -77,7 +77,7 @@ Matrix
 - Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/
 - <del>Spiral Matrix - https://leetcode.com/problems/spiral-matrix/<del>
 - Rotate Image - https://leetcode.com/problems/rotate-image/
-- Word Search - https://leetcode.com/problems/word-search/
+- <del>Word Search - https://leetcode.com/problems/word-search/<del>
 
 ---
 

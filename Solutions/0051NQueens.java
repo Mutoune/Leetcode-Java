@@ -7,6 +7,7 @@ public class Solution {
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> lists = new ArrayList<>();
         int[] res = new int[n];
+        
         for (int i = 0; i < n; i++) {
             if dfs(lists, res, 1, n);
         }

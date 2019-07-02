@@ -1,4 +1,4 @@
-# Leetcode-Java    ![Progress](http://progressed.io/bar/52?scale=69&title=Completed&suffix=P)
+# Leetcode-Java    ![Progress](http://progressed.io/bar/53?scale=69&title=Completed&suffix=P)
 ###### From https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 ---
@@ -86,7 +86,7 @@ String
 - <del>Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/<del>
 - Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
 - Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
-- Valid Anagram - https://leetcode.com/problems/valid-anagram/
+- <del>Valid Anagram - https://leetcode.com/problems/valid-anagram/<del>
 - Group Anagrams - https://leetcode.com/problems/group-anagrams/
 - <del>Valid Parentheses - https://leetcode.com/problems/valid-parentheses/<del>
 - <del>Valid Palindrome - https://leetcode.com/problems/valid-palindrome/<del>

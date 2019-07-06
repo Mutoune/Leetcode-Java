@@ -1,4 +1,4 @@
-
+import java.util.List;
 public class Solution {
     public boolean carPooling(int[][] trips, int capacity) {
         int[] station = new int[1001];

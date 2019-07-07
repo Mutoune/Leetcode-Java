@@ -1,29 +1,27 @@
 
 public class Solution {
-    public int[] maxDepthAfterSplit(String s) {
-        int N = s.length();
-        int[] res = new int[N];
-        int v1 = 0, v2 = 0;
-        for (int i = 0; i < N; i++) {
-            char c = s.charAt(i);
-            
-            if (c == '(') {
-                if (v1 < v2) {
-                    v1++;
-                } else {
-                    v2++;
-                    res[i] = 1;
-                }
-            } else {
-                if (v1 > v2) {
-                    v1--;
-                } else {
-                    v2--;
-                    res[i] = 1;
-                }
+    public int[] maxDepthAfterSplit(String seq) {
+        int[] rtn = new int[seq.length()];
+        int count = 0;
+        for (int i = 1; i < seq.length(); i++) {
+            if (seq.charAt(i - 1) == '(' && seq.charAt(i) == ')') {
+                rtn[i - 1] = 1;
+                rtn[i] = 1;
+                count++;
             }
         }
-        return res;
+        count = count / 2;
+        int index = 0;
+        while (index < seq.length() && rtn[index] != 0) {
+            if (rtn[index + 1] == 1) {
+                rtn[index + 1] = 0;
+                rtn[index] = 0;
+                count--;
+                if (count == 0) break;
+            }
+            index++;
+        }
+        return rtn;
     }
     public static void main(String[] args) {
         // TODO Auto-generated method stub
